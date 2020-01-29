@@ -1,0 +1,9 @@
+---
+projectName: WurstDebuggingTools
+dependencies:
+- https://github.com/Cokemonkey11/WurstLinkedHashMap
+- https://github.com/Cokemonkey11/WurstRealHeapGuard
+buildMapData:
+  name: ''
+  fileName: _
+  author: Cokemonkey11
